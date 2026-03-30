@@ -7,3 +7,5 @@ dist/
 .env
 .pytest_cache/
 .ruff_cache/
+chroma_db/
+try_rag_db/
